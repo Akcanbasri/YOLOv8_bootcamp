@@ -1,0 +1,3 @@
+#ignore all data and dataset folders and files
+data/
+dataset/
